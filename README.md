@@ -26,8 +26,8 @@ This web page was built to serve as a simple note taker, allowing user to save a
 https://github.com/holdenmg/note-taker
 
 ## Screenshot
-<img src=assets/images/screenshot1.png> 
-<img src=assets/images/screenshot2.png> 
+<img src=public/assets/images/screenshot1.png> 
+<img src=public/assets/images/screenshot2.png> 
 
 
 ## Installation
